@@ -1,0 +1,18 @@
+
+1. Project setup
+    1. create the 'templates' & the 'static' folder with html & css code
+    2. Link the folders to settings.py
+    3. create urls.py to rooting
+    4. link the css file to html file
+2. Create contact model
+    1. create all data for the contact model
+    2. add the 'contact' app to Installed_apps
+    3. makemigrations of contact model
+    4. create a superuser to use the django app
+    5. add contact model to superuser
+3. Create ne contact
+    1. create new url to add a new contact
+    2. add css link to 'new.html'
+    3. add the url for 'add-contact' button
+    4. add the url for 'go back' button
+    5. activate the 'save contact' button to create a new object
