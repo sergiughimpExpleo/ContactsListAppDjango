@@ -16,3 +16,13 @@
     3. add the url for 'add-contact' button
     4. add the url for 'go back' button
     5. activate the 'save contact' button to create a new object
+4. Rendering List of Contact
+    1. Add dinamicaly the contacts in the home page
+    2. The contacts from the page should match with the contacts from the django database 
+5. Showing Contact Details
+    1. Add dinamicaly the details of contacts in the profile page
+6. Editing Contact
+    1. Edit all the data from the form and from the django database
+7. Delete Contact
+    1. Delete the contact from the page and from the django database
+8. Integrating Search Feature
